@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">AreWeThereYet</string>
+    <string name="start_text">Start</string>
+    <string name="stop_text">Stop</string>
+    <string name="message_sent">Message sent to %1$s</string>
+    <string name="message_failed">Failed to send message</string>
+    <string name="permission_denied">Permission denied to send SMS</string>
+    <string name="invalid_input_title">Invalid Input</string>
+    <string name="invalid_input_message">Please enter a valid message, phone number, and interval (minutes).</string>
 </resources>
